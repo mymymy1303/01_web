@@ -1,0 +1,22 @@
+{
+  "name": "01_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mymymy1303/01_web.git"
+  },
+  "author": "Huy Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mymymy1303/01_web/issues"
+  },
+  "homepage": "https://github.com/mymymy1303/01_web#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
