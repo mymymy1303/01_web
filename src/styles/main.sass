@@ -1,9 +1,19 @@
 $nguyenmausac: #456
-	
-.nguyen 
-	color: $nguyenmausac
-	background: $nguyenmausac
-	.abc 
-		border: 1px solid $nguyenmausac
-		color: darken($nguyenmausac,20%)
-		background-color: #black
+body
+	background-color: lightpink
+	color: black
+
+.horizontal-menu
+	background-color: black
+	height: 100px
+	.menu-items
+		background-color: white
+		border: 1px solid black
+		cursor: pointer
+		outline: none
+		transition: 0.5s ease
+		&:hover
+			background-color: black
+			color: white
+			border: 1px solid white
+			transition: 0.5s ease

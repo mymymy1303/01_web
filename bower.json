@@ -1,0 +1,17 @@
+{
+  "name": "01_web",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Huy Nguyen"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mymymy1303/01_web",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
